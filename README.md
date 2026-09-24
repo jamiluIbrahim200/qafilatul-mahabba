@@ -2,7 +2,7 @@
 
 An interactive community outreach and donation platform built to support local humanitarian initiatives, including orphan support, healthcare assistance, clothing distribution, and community feeding programs.
 
-![Platform Banner](src/assets/bg/bg.jpeg) <!-- Replace with a main screenshot or hero image -->
+![Platform Banner](src/assets/videos/vid.mp4) <!-- Replace with a main screenshot or hero image -->
 
 ---
 
